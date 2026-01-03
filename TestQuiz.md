@@ -2,7 +2,7 @@
 author:     Автор Теста
 email:      email@example.com
 version:    0.0.1
-language:   ru
+language:   en
 comment:    Пример простого теста
 -->
 
